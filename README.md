@@ -1,4 +1,4 @@
-![2](https://github.com/user-attachments/assets/28bd214d-4252-4d5b-b23c-838e304fe853)# Fourier series
+# Fourier series
 Fourier Series Visualization 🎵📈
 This project is a Python-based visualization of Fourier series — a powerful mathematical tool for approximating periodic functions using sums of sine and cosine waves.
 
